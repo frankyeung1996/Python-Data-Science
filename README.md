@@ -1,2 +1,2 @@
-# python_numpy_tutorial
-python numpy tutorial
+# Python Data Science
+For self learning purpose
