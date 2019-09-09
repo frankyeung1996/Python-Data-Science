@@ -1,5 +1,5 @@
 # Python Data Science
-For self learning purpose
+For self learning and reference
 
 1. NumPy (https://www.tutorialspoint.com/numpy/index.htm)
 2. Pandas (https://www.tutorialspoint.com/python_pandas/index.htm)
