@@ -10,7 +10,7 @@ Machine learning Algorithm: (https://www.tutorialspoint.com/machine_learning_wit
 1. Classification 
 - Logistic Regression
 - Support Vector Machine (SVM)
-- Decision Tree
+- Decision Tree (https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
 - Naive Bayes
 - Random Forest
 
