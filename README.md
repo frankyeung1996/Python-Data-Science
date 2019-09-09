@@ -1,6 +1,10 @@
 # Python Data Science
 For self learning and reference
 
+Install:
+1. Anaconda (https://www.anaconda.com/)
+
+Useful Library:
 1. NumPy (https://www.tutorialspoint.com/numpy/index.htm)
 2. Pandas (https://www.tutorialspoint.com/python_pandas/index.htm)
 3. Matplotlib (https://www.tutorialspoint.com/matplotlib/index.htm)
