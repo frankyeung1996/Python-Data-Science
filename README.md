@@ -8,7 +8,7 @@ For self learning and reference
 
 Machine learning Algorithm: (https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_classification_algorithms_support_vector_machine.htm)
 1. Classification 
-- Logistic Regression
+- Logistic Regression (https://blog.goodaudience.com/machine-learning-using-logistic-regression-in-python-with-code-ab3c7f5f3bed)
 - Support Vector Machine (SVM)
 - Decision Tree (https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
 - Naive Bayes
