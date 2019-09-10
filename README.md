@@ -15,6 +15,7 @@ Machine learning Algorithm: (https://www.tutorialspoint.com/machine_learning_wit
 - Logistic Regression (https://blog.goodaudience.com/machine-learning-using-logistic-regression-in-python-with-code-ab3c7f5f3bed)
 - Support Vector Machine (SVM)
 - Decision Tree (https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
+- K-Nearest Neighbors (https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
 - Naive Bayes
 - Random Forest
 
