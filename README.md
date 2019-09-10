@@ -23,9 +23,9 @@ Machine learning Algorithm: (https://www.tutorialspoint.com/machine_learning_wit
 - Linear Regression (https://www.geeksforgeeks.org/linear-regression-python-implementation/)
 
 3. Clustering
-- K-Means Algorithm
-- Mean Shift Algorithm
-- Hierarchical Clustering
+- K-Means Algorithm (https://www.datacamp.com/community/tutorials/k-means-clustering-python)
+- Mean Shift Algorithm (https://towardsdatascience.com/machine-learning-algorithms-part-13-mean-shift-clustering-example-in-python-4d6452720b00)
+- Hierarchical Clustering (https://stackabuse.com/hierarchical-clustering-with-python-and-scikit-learn/)
 
 Advance Concept:
 
