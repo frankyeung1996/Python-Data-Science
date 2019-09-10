@@ -26,3 +26,14 @@ Machine learning Algorithm: (https://www.tutorialspoint.com/machine_learning_wit
 - K-Means Algorithm
 - Mean Shift Algorithm
 - Hierarchical Clustering
+
+Advance Concept:
+
+1. Tuning model hyper parameters using cross-validation
+- K-fold cross validation
+
+2. Ensemble method - Bagging, same algo with subset of train data to train each model
+- Random Forest
+
+3. Ensemble method - Boosting, train data that were wrongly predicted 
+- AdaBoost
