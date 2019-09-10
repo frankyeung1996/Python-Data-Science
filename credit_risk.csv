@@ -351,7 +351,7 @@ over_draft,credit_usage,credit_history,purpose,current_balance,Average_Credit_Ba
 "0<=X<200",9,"critical/other existing credit",education,1136,">=1000",">=7",4,"male single",none,3,"no known property",32,none,"for free",2,skilled,2,none,yes,bad
 "no checking",9,"existing paid","domestic appliance",1236,"<100","<1",1,"female div/dep/mar",none,4,"real estate",23,none,rent,1,skilled,1,yes,yes,good
 "0<=X<200",9,"existing paid",furniture/equipment,959,"<100","1<=X<4",1,"female div/dep/mar",none,2,car,29,none,own,1,skilled,1,none,no,bad
-"no checking",18,"critical/other existing credit","used car",3229,"no known savings",unemployed,2,"male single",none,4,"no known property",38,none,own,1,"high qualif/self emp/mgmt",1,yes,yes,good
+"no checking",17,"critical/other existing credit","used car",3229,"no known savings",unemployed,2,"male single",none,4,"no known property",38,none,own,1,"high qualif/self emp/mgmt",1,yes,yes,good
 "<0",12,"no credits/all paid",radio/tv,6199,"<100","1<=X<4",4,"male single",none,2,"life insurance",28,none,rent,2,skilled,1,yes,yes,bad
 "no checking",10,"existing paid",education,727,"500<=X<1000",">=7",4,"male single",none,4,"no known property",46,none,"for free",1,skilled,1,yes,yes,good
 "0<=X<200",24,"existing paid","new car",1246,"<100","<1",4,"male single",none,2,"real estate",23,stores,own,1,"unskilled resident",1,none,yes,bad
