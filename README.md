@@ -30,10 +30,10 @@ Machine learning Algorithm: (https://www.tutorialspoint.com/machine_learning_wit
 Advance Concept:
 
 1. Tuning model hyper parameters using cross-validation
-- K-fold cross validation
+- K-fold cross validation (https://machinelearningmastery.com/k-fold-cross-validation/)
 
 2. Ensemble method - Bagging, same algo with subset of train data to train each model
-- Random Forest
+- Random Forest (https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 
 3. Ensemble method - Boosting, train data that were wrongly predicted 
-- AdaBoost
+- AdaBoost (https://www.datacamp.com/community/tutorials/adaboost-classifier-python)
